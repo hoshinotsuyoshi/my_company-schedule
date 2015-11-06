@@ -9,6 +9,10 @@ irb(main):002:0> MyCompany::Schedule.work_day?
 #=> true or false
 ```
 
+## More Holidays?
+
+[Add!](lib/my_company/schedule.rb#L6)
+
 ## Installation
 
 Add this line to your application's Gemfile:
